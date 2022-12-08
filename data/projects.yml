@@ -1,19 +1,9 @@
-- name: Longest Word Game
-  description: Decent description of the app
-  image: projects/placeholder.png
-  url: https://www.google.com
+- name: Homestopia
+  description: An Airbnb style web application with a concentration on sharing homestay experiences. Find a family to host you anywhere in the world, or host your own traveller from abroad. Web aplication for renting and sharing homestay experiences. User can find family over the world and became a host.
+  image: projects/homestopia.png
+  url: https://github.com/Junalem/homestopia
 
-- name: Movie Watchlist
-  description: Decent description of the app
-  image: projects/placeholder.png
-  url: https://www.google.com
-
-- name: Airbnb
-  description: Decent description of the app
-  image: projects/placeholder.png
-  url: https://www.google.com
-
-- name: Final project
-  description: Decent description of the app
-  image: projects/placeholder.png
-  url: https://www.google.com
+- name: Not Alone
+  description: Web application developed for NPO OpSafe (hosts camps for kids that have suffered from traumatic experiences) for fast finding volunteers over the world and contacting them immediately when you need them by location. Application focused on a database of OpSafe's volunteers and includes a mailer for contacting them. With this app you can find information about previous camps.
+  image: projects/notalone.png
+  url: https://www.not-alone.online/
