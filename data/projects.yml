@@ -1,9 +1,9 @@
-- name: Homestopia
-  description: An Airbnb style web application with a concentration on sharing homestay experiences. Find a family to host you anywhere in the world, or host your own traveller from abroad. Web aplication for renting and sharing homestay experiences. User can find family over the world and became a host.
-  image: projects/homestopia.png
-  url: https://github.com/Junalem/homestopia
-
 - name: Not Alone
-  description: Web application developed for NPO OpSafe (hosts camps for kids that have suffered from traumatic experiences) for fast finding volunteers over the world and contacting them immediately when you need them by location. Application focused on a database of OpSafe's volunteers and includes a mailer for contacting them. With this app you can find information about previous camps.
+  description: A volunteer recruitment site/database developed in partnership with OpSAFE, an NPO that hosts camps for kids with traumatic experiences. A web application designed with Ruby on Rails and Stimulus, with Mailer and Geocoder integration. As Project Manager I was responsible for updating tasks on Trello, tracking progress and made general reports for each working step. Also I did integration of Mailer and Geocoder, back-end and front-end of assigments index page.
   image: projects/notalone.png
   url: https://www.not-alone.online/
+
+- name: Homestopia
+  description: An Airbnb style web application with a concentration on sharing homestay experiences.A web application designed with Ruby on Rails and Stimulus, with Geocoder integration. As Project Manager I was responsible for updating tasks on Trello, tracking progress and made general reports for each working step. Also I did database seeding back-end and front-end of homestay show page.
+  image: projects/homestopia.png
+  url: https://github.com/Junalem/homestopia
