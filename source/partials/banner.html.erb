@@ -1,9 +1,28 @@
 <div class="row justify-content-center banner">
   <div class="col-12 d-flex flex-column justify-content-center align-items-center h-100">
     <%= image_tag 'https://media-exp1.licdn.com/dms/image/D5603AQGJSLmpSUsG4g/profile-displayphoto-shrink_400_400/0/1670146873742?e=1675900800&v=beta&t=cpmR_9WX3JdLsO8cRAXfbxzPXQEPQ5O0C-fC6V0qYIA', alt: "profile photo", class: 'avatar' %>
-    <h1 class="title-main">Thank you for visiting my site.
+    <div class="row my-5">
+      <div class="col-12">
+        <div id="contact">
+          <div class="d-flex justify-content-center flex-wrap">
+            <div class="button-social d-flex flex-column justify-content-center align-items-center">
+              <i class="fa-solid fa-envelope"></i>
+              <%= mail_to "yulia.naumenko@outlook.com", "", class: 'button-social-link' %>
+            </div>
+            <div class="button-social d-flex flex-column justify-content-center align-items-center">
+              <i class="fa-brands fa-github"></i>
+              <%= link_to "", "https://github.com/Junalem", target: '_blank', class: 'button-social-link' %>
+            </div>
+            <div class="button-social d-flex flex-column justify-content-center align-items-center">
+              <i class="fa-brands fa-linkedin"></i>
+              <%= link_to "", "https://www.linkedin.com/in/yulia-naumenko/", target: '_blank', class: 'button-social-link' %>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <h1 class="title-main">Hi there 👋
     </h1>
-    <h1 class="title-main">Here my small story...
-    </h1>
+    <h4 class="title"> My name is Yulia. I started learning to code after two years of working in a management position at an outsourcing and offshoring consulting company. I want to connect my management and web development experience to my future position. I'm looking for a full-time product manager position. </h4>
   </div>
 </div>

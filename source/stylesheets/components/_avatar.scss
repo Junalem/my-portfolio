@@ -27,3 +27,13 @@
   -webkit-background-clip: text;
   // -webkit-text-fill-color: transparent;
 }
+.title {
+  margin: 36px;
+  color: #524a48;
+  background: linear-gradient(to right, rgba(255,239,223, 0.5) 0%, rgba(255,239,223, 0));
+  opacity: 90%;
+  -webkit-background-clip: text;
+  width: 600px;
+  text-align: center;
+  // -webkit-text-fill-color: transparent;
+}
