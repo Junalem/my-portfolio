@@ -1,9 +1,11 @@
 - name: Not Alone
-  description: A volunteer recruitment site/database developed in partnership with OpSAFE, an NPO that hosts camps for kids with traumatic experiences. A web application designed with Ruby on Rails and Stimulus, with Mailer and Geocoder integration. As Project Manager I was responsible for updating tasks on Trello, tracking progress and made general reports for each working step. Also I did integration of Mailer and Geocoder, back-end and front-end of assigments index page.
+  description: A volunteer recruitment site/database developed in partnership with OpSAFE, an NPO that hosts camps for kids with traumatic experiences. A web application designed with Ruby on Rails and Stimulus, with Mailer and Geocoder integration.
+  responsibility: As Project Manager I was responsible for updating tasks on Trello, tracking progress and made general reports for each working step. Also I did integration of Mailer and Geocoder, back-end and front-end of assigments index page.
   image: projects/notalone.png
   url: https://www.not-alone.online/
 
 - name: Homestopia
-  description: An Airbnb style web application with a concentration on sharing homestay experiences.A web application designed with Ruby on Rails and Stimulus, with Geocoder integration. As Project Manager I was responsible for updating tasks on Trello, tracking progress and made general reports for each working step. Also I did database seeding back-end and front-end of homestay show page.
+  description: An Airbnb style web application with a concentration on sharing homestay experiences. A web application designed with Ruby on Rails and Stimulus, with Geocoder integration.
+  responsibility: As Project Manager I was responsible for updating tasks on Trello, tracking progress and made general reports for each working step. Also I did database seeding back-end and front-end of homestay show page.
   image: projects/homestopia.png
   url: https://github.com/Junalem/homestopia

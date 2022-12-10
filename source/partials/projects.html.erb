@@ -2,11 +2,11 @@
   <div class="col-12">
     <div class="container">
       <div id="projects">
-        <h2> Projects</h2>
+        <h2> My projects</h2>
         <div class="cards">
           <%# data.projects.each do |project| %>
             <div class="card-product">
-              <%= image_tag data.projects.first.image, alt: "project image" %>
+              <%= image_tag data.projects.first.image, alt: "project image", class:"img1" %>
               <div class="card-product-infos w-360">
                 <div class="d-flex justify-content-between align-items-center">
                   <h2><%= data.projects.first.name %></h2>
@@ -15,6 +15,7 @@
                   <% end %>
                 </div>
                 <p><%= data.projects.first.description %></p>
+                <p><%= data.projects.first.responsibility %></p>
               </div>
             </div>
             <%# end %>
@@ -27,8 +28,9 @@
                   <% end %>
                 </div>
                 <p><%= data.projects.last.description %></p>
+                <p><%= data.projects.last.responsibility %></p>
               </div>
-              <%= image_tag data.projects.last.image, alt: "project image" %>
+              <%= image_tag data.projects.last.image, alt: "project image", class:"img2" %>
             </div>
             <%# end %>
           </div>

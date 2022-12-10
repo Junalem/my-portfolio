@@ -12,12 +12,22 @@
   margin-bottom: 36px;
 }
 
-.card-product img {
+.card-product .img1 {
   height: 100%;
-  width: 400px;
+  width: 500px;
   object-fit: fill;
   border-radius: 2%;
-  box-shadow: 0 0 8px rgba(#A7CAEE, 0.5);
+  transform: rotate(-5deg);
+  padding: 24px;
+}
+
+.card-product .img2 {
+  height: 100%;
+  width: 500px;
+  object-fit: fill;
+  border-radius: 2%;
+  transform: rotate(5deg);
+  padding: 24px;
 }
 
 .card-product h2 {
