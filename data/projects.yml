@@ -15,3 +15,9 @@
   responsibility: Build front and backend. It's  designed with Ruby on Rails
   image: projects/taskmanager.png
   url: https://github.com/Junalem/rails-task-manager
+
+- name: Task Manager
+  description: A small web application to keep track of movies you have watched or would like to watch. You can also organize movie lists by genre!
+  responsibility: Build front and backend. It's  designed with Ruby on Rails
+  image: projects/movielist.png
+  url: https://github.com/Junalem/rails-watch-list
