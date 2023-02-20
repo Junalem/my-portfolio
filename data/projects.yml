@@ -8,7 +8,7 @@
   description: An Airbnb style web application with a concentration on sharing homestay experiences. A web application designed with Ruby on Rails and Stimulus, with Geocoder integration.
   responsibility: As Project Manager I was responsible for updating tasks on Trello, tracking progress and made general reports for each working step. Also I did database seeding back-end and front-end of homestay show page.
   image: projects/homestopia.png
-  url: https://github.com/Junalem/homestopia
+  url: https://homestopia.herokuapp.com/
 
 - name: Task Manager
   description: Simple task manager with list of your goals. You can ad new goal, edit old one, mark it as done or delete task which you don't need
